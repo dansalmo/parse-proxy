@@ -1,11 +1,12 @@
 include
 lib
+index.yaml
+*.pyc
+venv
 
 # Python Packages
 *.egg
 *.egg-info
-*.pyc
-venv
 bin
 build
 dist
